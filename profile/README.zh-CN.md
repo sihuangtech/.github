@@ -28,7 +28,7 @@
 ### 微信支付 & 支付宝
 扫描下方二维码，通过微信或支付宝打赏我们：
 
-<table>
+<table border="0" cellpadding="0">
   <tr>
     <td style="text-align: center; padding-right: 20px;">
       <img src="../pictures/wechat-qrcode.png" alt="WeChat QR Code" height="300">

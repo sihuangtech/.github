@@ -28,7 +28,7 @@ Support us via Buy Me a Coffee:
 ### WeChat Pay & Alipay
 Scan the QR codes below to donate via WeChat or Alipay:
 
-<table>
+<table border="0" cellpadding="0">
   <tr>
     <td style="text-align: center; padding-right: 20px;">
       <img src="../pictures/wechat-qrcode.png" alt="WeChat QR Code" height="300">
