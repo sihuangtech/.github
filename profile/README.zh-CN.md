@@ -21,8 +21,9 @@
 如果我们的开源项目对你有帮助，你可以通过以下方式支持我们：
 
 ### Buy Me a Coffee
-通过 Buy Me a Coffee 支持我们：  
-<a href="https://www.buymeacoffee.com/SnakeKongin"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=SnakeKongin&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+通过 Buy Me a Coffee 支持我们：
+
+<a href="https://www.buymeacoffee.com/SnakeKongin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### 微信支付 & 支付宝
 扫描下方二维码，通过微信或支付宝打赏我们：
