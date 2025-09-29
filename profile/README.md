@@ -20,10 +20,10 @@ If you are interested in joining us, please send your application to:
 ## ☕ Support Us
 If our open-source projects have been helpful to you, you can support us via one of the following options:
 
-### Buy Me a Coffee
-Support us via Buy Me a Coffee:  
+### Ko-fi
+Support us via Ko-fi:  
 
-<a href="https://www.buymeacoffee.com/SnakeKongin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://ko-fi.com/Z8Z21M03Y5" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" ></a>
 
 ### WeChat Pay & Alipay
 Scan the QR codes below to donate via WeChat or Alipay:

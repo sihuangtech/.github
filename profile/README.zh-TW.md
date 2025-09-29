@@ -20,10 +20,10 @@
 ## ☕ 支持我們
 如果我們的開源專案對你有幫助，你可以透過以下方式支持我們：
 
-### Buy Me a Coffee
-透過 Buy Me a Coffee 支持我們：
+### Ko-fi
+透過 Ko-fi 支持我們：
 
-<a href="https://www.buymeacoffee.com/SnakeKongin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://ko-fi.com/Z8Z21M03Y5" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" ></a>
 
 ### 微信支付 & 支付寶
 掃描下方二維碼，通過微信或支付寶打賞我們：
