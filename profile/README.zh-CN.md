@@ -44,4 +44,7 @@
 ## 📬 联系
 - 🌐 网站(全球): [https://www.sihuangtech.com](https://www.sihuangtech.com) 
 - 🌐 网站(中国): [https://www.skstudio.cn](https://www.skstudio.cn)
-- 📧 邮箱：contact@skstudio.cn
+- 📧 联系邮箱：contact@skstudio.cn
+- 📧 技术邮箱：developer@skstudio.cn
+- 💬 Discord：[加入我们的 Discord](https://discord.gg/thWGWq7CwA)
+- 💬 QQ群：[加入我们的 QQ 群](https://qm.qq.com/q/WEBm0AkBKI)

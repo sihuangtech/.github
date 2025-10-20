@@ -44,4 +44,7 @@ Scan the QR codes below to donate via WeChat or Alipay:
 ## 📬 Contact
 - 🌐 Website(Global): [https://www.sihuangtech.com](https://www.sihuangtech.com) 
 - 🌐 Website(China): [https://www.skstudio.cn](https://www.skstudio.cn)
-- 📧 Email: contact@skstudio.cn
+- 📧 Contact Email: contact@skstudio.cn
+- 📧 Technical Email: developer@skstudio.cn
+- 💬 Discord: [Join our Discord](https://discord.gg/thWGWq7CwA)
+- 💬 QQ Group: [Join our QQ Group](https://qm.qq.com/q/WEBm0AkBKI)
