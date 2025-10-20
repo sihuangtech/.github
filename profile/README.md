@@ -46,5 +46,5 @@ Scan the QR codes below to donate via WeChat or Alipay:
 - 🌐 Website(China): [https://www.skstudio.cn](https://www.skstudio.cn)
 - 📧 Contact Email: contact@skstudio.cn
 - 📧 Technical Email: developer@skstudio.cn
-- 💬 Discord: [Join our Discord](https://discord.gg/thWGWq7CwA)
-- 💬 QQ Group: [Join our QQ Group](https://qm.qq.com/q/WEBm0AkBKI)
+- [![Discord](https://img.shields.io/badge/Discord-Join%20our%20Discord%20server-7289da?logo=discord&logoColor=white)](https://discord.gg/thWGWq7CwA)
+- [![QQ Group](https://img.shields.io/badge/QQ%20Group-Join%20our%20QQ%20group-12b7f5?logo=qq&logoColor=white)](https://qm.qq.com/q/WEBm0AkBKI)

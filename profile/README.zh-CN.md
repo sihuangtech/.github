@@ -46,5 +46,5 @@
 - 🌐 网站(中国): [https://www.skstudio.cn](https://www.skstudio.cn)
 - 📧 联系邮箱：contact@skstudio.cn
 - 📧 技术邮箱：developer@skstudio.cn
-- 💬 Discord：[加入我们的 Discord](https://discord.gg/thWGWq7CwA)
-- 💬 QQ群：[加入我们的 QQ 群](https://qm.qq.com/q/WEBm0AkBKI)
+- [![Discord](https://img.shields.io/badge/Discord-加入我們的Discord服務器-7289da?logo=discord&logoColor=white)](https://discord.gg/thWGWq7CwA)
+- [![QQ群](https://img.shields.io/badge/QQ群-加入我們的QQ群-12b7f5?logo=qq&logoColor=white)](https://qm.qq.com/q/WEBm0AkBKI)
